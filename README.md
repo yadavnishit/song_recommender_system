@@ -1,4 +1,4 @@
-# song_recommender_system
+# Song_recommender_system
 
 Song Recommender System (Based on Artist Name)
 This project recommends songs by analyzing artist similarity. Enter an artist’s name, and it returns a list of songs from artists with similar musical style or metadata.
